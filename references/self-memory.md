@@ -5,7 +5,7 @@
 - Refreshed through: 2026-06-21
 - Clean files: 127
 - Review files: 102
-- Events recorded: 3433
+- Events recorded: 3446
 - Rules generated: 80
 - Main source after filtering: Codex local sessions
 - Latest filter report: `G:\2026\我的对话数据\reports\2026-06-21-filter-report.md`
