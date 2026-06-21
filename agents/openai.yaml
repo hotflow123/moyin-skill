@@ -1,0 +1,7 @@
+interface:
+  display_name: "魔因skill"
+  short_description: "按用户硬核务实风格协作"
+  default_prompt: "Use $moyin-skill to handle this in my pragmatic, result-first working style."
+
+policy:
+  allow_implicit_invocation: true
