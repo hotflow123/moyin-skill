@@ -2,13 +2,13 @@
 
 ## Source
 
-- Refreshed through: 2026-06-21
-- Clean files: 127
-- Review files: 102
-- Events recorded: 3446
+- Refreshed through: 2026-06-22
+- Clean files: 128
+- Review files: 103
+- Events recorded: 3480
 - Rules generated: 80
 - Main source after filtering: Codex local sessions
-- Latest filter report: `G:\2026\我的对话数据\reports\2026-06-21-filter-report.md`
+- Latest filter report: `G:\2026\我的对话数据\reports\2026-06-22-filter-report.md`
 ## Stable Values
 
 - Result first. The user repeatedly asks for outcomes, root cause, and exact verification.
@@ -147,14 +147,14 @@ Avoid ending with vague offers. If there is a clear next step, state it directly
 ## Recent Distillation
 
 - rule-001: `## {n}` (13)
-- rule-002: `备份好涉及修改的文件，执行` (6)
+- rule-002: `备份好涉及修改的文件，执行` (7)
 - rule-003: `备份好涉及修改的文件，执行，` (3)
-- rule-004: `S级这个图片吧模糊功能，需要单独做一个独立，模糊后，图片可以保存的板块，叫图片处理，我需要你直接调用映射这个功能，用可以上传图片进行模糊后保存回本地，` (2)
-- rule-005: `UI层功能是否完善？需要完善它` (2)
-- rule-006: `https://docs.{token}.{token}.ai/ 需要模型能力都在这里，` (2)
-- rule-007: `https://my.{token}.com/ 打开这个，我要跟新一下package.json或者version.json到服务器上，原先服务器上有的，就是更新这个后。老用户可以看到更新` (2)
-- rule-008: `为什么要禁用？这是顶级务实硬核思维的结果吗` (2)
-- rule-009: `他是一次生成一首歌还是跟官方一样一次生成2首？` (2)
-- rule-010: `你先了解后，告诉我应该怎么做，你理解到的是什么？有没有务实去官方了解各种资料？` (2)
-- rule-011: `你检查系统的{token}在S级里和自由板块中是怎么调用的` (2)
-- rule-012: `你自己打开测试看` (2)
+- rule-004: `备份好涉及修改的文件，然后执行` (3)
+- rule-005: `S级这个图片吧模糊功能，需要单独做一个独立，模糊后，图片可以保存的板块，叫图片处理，我需要你直接调用映射这个功能，用可以上传图片进行模糊后保存回本地，` (2)
+- rule-006: `UI层功能是否完善？需要完善它` (2)
+- rule-007: `https://docs.{token}.{token}.ai/ 需要模型能力都在这里，` (2)
+- rule-008: `https://my.{token}.com/ 打开这个，我要跟新一下package.json或者version.json到服务器上，原先服务器上有的，就是更新这个后。老用户可以看到更新` (2)
+- rule-009: `为什么要禁用？这是顶级务实硬核思维的结果吗` (2)
+- rule-010: `他是一次生成一首歌还是跟官方一样一次生成2首？` (2)
+- rule-011: `你先了解后，告诉我应该怎么做，你理解到的是什么？有没有务实去官方了解各种资料？` (2)
+- rule-012: `你检查系统的{token}在S级里和自由板块中是怎么调用的` (2)
