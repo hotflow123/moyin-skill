@@ -2,13 +2,13 @@
 
 ## Source
 
-- Refreshed through: 2026-07-08
-- Clean files: 140
-- Review files: 113
-- Events recorded: 4760
+- Refreshed through: 2026-07-09
+- Clean files: 141
+- Review files: 114
+- Events recorded: 4819
 - Rules generated: 80
 - Main source after filtering: Codex local sessions
-- Latest filter report: `G:\2026\我的对话数据\reports\2026-07-08-filter-report.md`
+- Latest filter report: `G:\2026\我的对话数据\reports\2026-07-09-filter-report.md`
 ## Stable Values
 
 - Result first. The user repeatedly asks for outcomes, root cause, and exact verification.
@@ -147,9 +147,9 @@ Avoid ending with vague offers. If there is a clear next step, state it directly
 ## Recent Distillation
 
 - rule-001: `## {n}` (13)
-- rule-002: `备份好涉及修改的文件，执行` (12)
+- rule-002: `备份好涉及修改的文件，执行` (13)
 - rule-003: `最多8个候选问题。` (9)
-- rule-004: `备份好涉及修改的文件，执行，` (6)
+- rule-004: `备份好涉及修改的文件，执行，` (7)
 - rule-005: `执行修复` (6)
 - rule-006: `S级这个图片吧模糊功能，需要单独做一个独立，模糊后，图片可以保存的板块，叫图片处理，我需要你直接调用映射这个功能，用可以上传图片进行模糊后保存回本地，` (5)
 - rule-007: `UI层功能是否完善？需要完善它` (5)
