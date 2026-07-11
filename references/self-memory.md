@@ -2,13 +2,13 @@
 
 ## Source
 
-- Refreshed through: 2026-07-10
-- Clean files: 142
-- Review files: 115
-- Events recorded: 4887
+- Refreshed through: 2026-07-11
+- Clean files: 143
+- Review files: 116
+- Events recorded: 4947
 - Rules generated: 80
 - Main source after filtering: Codex local sessions
-- Latest filter report: `G:\2026\我的对话数据\reports\2026-07-10-filter-report.md`
+- Latest filter report: `G:\2026\我的对话数据\reports\2026-07-11-filter-report.md`
 ## Stable Values
 
 - Result first. The user repeatedly asks for outcomes, root cause, and exact verification.
