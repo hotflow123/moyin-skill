@@ -2,13 +2,13 @@
 
 ## Source
 
-- Refreshed through: 2026-07-25
-- Clean files: 155
-- Review files: 128
-- Events recorded: 5302
+- Refreshed through: 2026-07-27
+- Clean files: 156
+- Review files: 129
+- Events recorded: 5375
 - Rules generated: 80
 - Main source after filtering: Codex local sessions
-- Latest filter report: `G:\2026\我的对话数据\reports\2026-07-25-filter-report.md`
+- Latest filter report: `G:\2026\我的对话数据\reports\2026-07-27-filter-report.md`
 ## Stable Values
 
 - Result first. The user repeatedly asks for outcomes, root cause, and exact verification.
@@ -148,13 +148,13 @@ Avoid ending with vague offers. If there is a clear next step, state it directly
 
 - rule-001: `## {n}` (13)
 - rule-002: `备份好涉及修改的文件，执行` (13)
-- rule-003: `最多8个候选问题。` (9)
-- rule-004: `备份好涉及修改的文件，执行，` (7)
-- rule-005: `修复这个问题，` (6)
-- rule-006: `修复问题` (6)
-- rule-007: `执行修复` (6)
-- rule-008: `S级这个图片吧模糊功能，需要单独做一个独立，模糊后，图片可以保存的板块，叫图片处理，我需要你直接调用映射这个功能，用可以上传图片进行模糊后保存回本地，` (5)
-- rule-009: `UI层功能是否完善？需要完善它` (5)
-- rule-010: `https://docs.{token}.{token}.ai/ 需要模型能力都在这里，` (5)
-- rule-011: `https://my.{token}.com/ 打开这个，我要跟新一下package.json或者version.json到服务器上，原先服务器上有的，就是更新这个后。老用户可以看到更新` (5)
-- rule-012: `为什么要禁用？这是顶级务实硬核思维的结果吗` (5)
+- rule-003: `你在仓库 G:/{token}（{token} {n} + React {n} + {token} + Vite 5 + {token}，Zustand 状态管理）里工作。 【硬性约束 — 违反即作废】 1. 你是**只读**的。绝对不要用 Edit / Write / {token} 修改任何文件。你的产出是一份"补丁方案"，由主进程串行落地。 2. 绝对` (9)
+- rule-004: `最多8个候选问题。` (9)
+- rule-005: `备份好涉及修改的文件，执行，` (7)
+- rule-006: `修复这个问题，` (6)
+- rule-007: `修复问题` (6)
+- rule-008: `执行修复` (6)
+- rule-009: `S级这个图片吧模糊功能，需要单独做一个独立，模糊后，图片可以保存的板块，叫图片处理，我需要你直接调用映射这个功能，用可以上传图片进行模糊后保存回本地，` (5)
+- rule-010: `UI层功能是否完善？需要完善它` (5)
+- rule-011: `https://docs.{token}.{token}.ai/ 需要模型能力都在这里，` (5)
+- rule-012: `https://my.{token}.com/ 打开这个，我要跟新一下package.json或者version.json到服务器上，原先服务器上有的，就是更新这个后。老用户可以看到更新` (5)
