@@ -2,13 +2,13 @@
 
 ## Source
 
-- Refreshed through: 2026-08-02
-- Clean files: 162
-- Review files: 135
-- Events recorded: 5613
+- Refreshed through: 2026-08-03
+- Clean files: 163
+- Review files: 136
+- Events recorded: 5625
 - Rules generated: 80
 - Main source after filtering: Codex local sessions
-- Latest filter report: `G:\2026\我的对话数据\reports\2026-08-02-filter-report.md`
+- Latest filter report: `G:\2026\我的对话数据\reports\2026-08-03-filter-report.md`
 ## Stable Values
 
 - Result first. The user repeatedly asks for outcomes, root cause, and exact verification.
@@ -152,9 +152,9 @@ Avoid ending with vague offers. If there is a clear next step, state it directly
 - rule-004: `最多8个候选问题。` (9)
 - rule-005: `修复问题` (7)
 - rule-006: `备份好涉及修改的文件，执行，` (7)
-- rule-007: `修复这个问题，` (6)
-- rule-008: `执行修复` (6)
-- rule-009: `S级这个图片吧模糊功能，需要单独做一个独立，模糊后，图片可以保存的板块，叫图片处理，我需要你直接调用映射这个功能，用可以上传图片进行模糊后保存回本地，` (5)
-- rule-010: `UI层功能是否完善？需要完善它` (5)
-- rule-011: `https://docs.{token}.{token}.ai/ 需要模型能力都在这里，` (5)
-- rule-012: `https://my.{token}.com/ 打开这个，我要跟新一下package.json或者version.json到服务器上，原先服务器上有的，就是更新这个后。老用户可以看到更新` (5)
+- rule-007: `修复这个问题` (6)
+- rule-008: `修复这个问题，` (6)
+- rule-009: `执行修复` (6)
+- rule-010: `S级这个图片吧模糊功能，需要单独做一个独立，模糊后，图片可以保存的板块，叫图片处理，我需要你直接调用映射这个功能，用可以上传图片进行模糊后保存回本地，` (5)
+- rule-011: `UI层功能是否完善？需要完善它` (5)
+- rule-012: `https://docs.{token}.{token}.ai/ 需要模型能力都在这里，` (5)
