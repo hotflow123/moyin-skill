@@ -2,13 +2,13 @@
 
 ## Source
 
-- Refreshed through: 2026-08-03
-- Clean files: 163
+- Refreshed through: 2026-08-04
+- Clean files: 164
 - Review files: 136
-- Events recorded: 5625
+- Events recorded: 5627
 - Rules generated: 80
 - Main source after filtering: Codex local sessions
-- Latest filter report: `G:\2026\我的对话数据\reports\2026-08-03-filter-report.md`
+- Latest filter report: `G:\2026\我的对话数据\reports\2026-08-04-filter-report.md`
 ## Stable Values
 
 - Result first. The user repeatedly asks for outcomes, root cause, and exact verification.
@@ -150,7 +150,7 @@ Avoid ending with vague offers. If there is a clear next step, state it directly
 - rule-002: `## {n}` (13)
 - rule-003: `你在仓库 G:/{token}（{token} {n} + React {n} + {token} + Vite 5 + {token}，Zustand 状态管理）里工作。 【硬性约束 — 违反即作废】 1. 你是**只读**的。绝对不要用 Edit / Write / {token} 修改任何文件。你的产出是一份"补丁方案"，由主进程串行落地。 2. 绝对` (9)
 - rule-004: `最多8个候选问题。` (9)
-- rule-005: `修复问题` (7)
+- rule-005: `修复问题` (8)
 - rule-006: `备份好涉及修改的文件，执行，` (7)
 - rule-007: `修复这个问题` (6)
 - rule-008: `修复这个问题，` (6)
