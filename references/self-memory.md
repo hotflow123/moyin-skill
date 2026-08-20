@@ -3,9 +3,9 @@
 ## Source
 
 - Refreshed through: 2026-08-20
-- Clean files: 172
-- Review files: 144
-- Events recorded: 5872
+- Clean files: 173
+- Review files: 145
+- Events recorded: 5962
 - Rules generated: 80
 - Main source after filtering: Codex local sessions
 - Latest filter report: `G:\2026\我的对话数据\reports\2026-08-20-filter-report.md`
