@@ -12,7 +12,7 @@ It is inspired by the `yourself-skill` two-layer structure:
 - `references/self-memory.md`: stable facts, projects, values, and recurring workflows.
 - `references/persona.md`: response style, decision rules, and collaboration behavior.
 
-Read both reference files when the user explicitly says `魔因skill`, asks to "按我的方式", or the task touches Moyin/MemeFast/Seedance, model routing, product workflow, mini-program deployment/review, packaging/deployment, dialogue extraction, or personal skill distillation.
+Read both reference files when the user explicitly says `魔因skill`, asks to "按我的方式", or the task explicitly depends on personal preferences, prior project decisions, or personal skill distillation. For ordinary Moyin/MemeFast/Seedance code tasks, load only the reference needed by the specific question.
 
 ## Operating Modes
 
@@ -87,6 +87,6 @@ For user-facing final answers, avoid long lecture mode. The user values:
 
 When this skill triggers:
 
-1. Read `references/persona.md` for behavior and response style.
-2. Read `references/self-memory.md` for stable project memory and recurring preferences.
+1. Read `references/persona.md` only when response style or collaboration preferences matter.
+2. Read `references/self-memory.md` only when stable project memory or recurring preferences matter.
 3. If the task is corpus extraction, also use the `tiqu` skill.
